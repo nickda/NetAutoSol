@@ -1,0 +1,10 @@
+---
+- name: Run show version
+  hosts: all
+  gather_facts: no
+  tasks:
+  - raw: "show version"
+    register: version
+
+  - debug: 
+      var: version.stdout_lines
