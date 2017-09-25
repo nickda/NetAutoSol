@@ -1,4 +1,4 @@
-# Lab Description (Take 1)
+# Lab Description
 
 
 Based on [EOS-Leaf-and-Spine](https://github.com/ipspace/NetOpsWorkshop/tree/master/topologies/EOS-Leaf-and-Spine) by Ivan Pepelnjak and David Barroso
